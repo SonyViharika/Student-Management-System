@@ -1,1 +1,2 @@
 # Student-Management-System
+The Student Management System is a comprehensive web application designed to manage student information, grades, and attendance efficiently. It includes secure user authentication and provides functionalities for student registration, grade management, and attendance tracking. The project utilizes HTML, CSS, SQL, and JSP to ensure a robust and user-friendly interface for educational institutions.
